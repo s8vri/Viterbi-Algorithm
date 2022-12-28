@@ -17,7 +17,7 @@ of the Viterbi algorithm are found in the two *png* files accordingly.
 
  - eval-l-t.png
  
- - discussion
+ - Discussion.pdf
  
  - dd-test.t
  
