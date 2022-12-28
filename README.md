@@ -11,17 +11,17 @@ of the Viterbi algorithm are found in the two *png* files accordingly.
 
 # Project Structure
 
- -Viterbi_HMM.ipynb
+ - Viterbi_HMM.ipynb
 
- -accuracy_score.png
+ - accuracy_score.png
 
- -eval-l-t.png
+ - eval-l-t.png
  
- -discussion
+ - discussion
  
- -dd-test.t
+ - dd-test.t
  
- -README.txt
+ - README.txt
  
  
 ### Requirements: 
