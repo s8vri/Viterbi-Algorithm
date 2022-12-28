@@ -21,7 +21,7 @@ of the Viterbi algorithm are found in the two *png* files accordingly.
  
  - dd-test.t
  
- - README.txt
+ - README.md
  
  
 ### Requirements: 
