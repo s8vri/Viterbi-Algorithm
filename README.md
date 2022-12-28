@@ -30,5 +30,5 @@ of the Viterbi algorithm are found in the two *png* files accordingly.
                nltk 3.5
                
 ### System Details: 
-               OS Ubuntu 20.04.1 LTS
- 		            OS type 64 bit
+                OS Ubuntu 20.04.1 LTS
+ 		             OS type 64 bit
