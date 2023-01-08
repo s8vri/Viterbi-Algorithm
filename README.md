@@ -1,6 +1,6 @@
 # Viterbi Algorithm
 
-In this assignment the Viterbi Algorithm was implemented for finding the optimal state (here: tag) sequence given the sequence of observations (words). Based on this a bigram POS tagger based on HMMs was implemented.
+This is the second assignment from the **computational linguistics** lecture at **Saarland University** during the **WS 2021/21**. Here, the Viterbi Algorithm was implemented for finding the optimal state (here: tag) sequence given the sequence of observations (words). Based on this a bigram POS tagger based on HMMs was implemented.
 
 The parameters (*initial, transition, and emission probabilities*) were learned from data and a maximum 
 likelihood training procedure for supervised learning of HMMs was implemented.
