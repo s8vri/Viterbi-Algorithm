@@ -1,4 +1,4 @@
-# Viterbi Algorithm
+### Viterbi Algorithm
 
 This is the second assignment from the **computational linguistics** lecture at **Saarland University** during the **WS 2021/21**. Here, the Viterbi Algorithm was implemented for finding the optimal state (here: tag) sequence given the sequence of observations (words). Based on this a bigram POS tagger based on HMMs was implemented.
 
@@ -9,7 +9,7 @@ The trained model was evaluated on the unseen data from the test set. The Viterb
 of the Viterbi algorithm are found in the two *png* files accordingly.
 
 
-# Project Structure
+#### Project Structure
 
  - Viterbi_HMM.ipynb
 
@@ -24,7 +24,7 @@ of the Viterbi algorithm are found in the two *png* files accordingly.
  - README.md
  
  
-### Requirements: 
+#### Requirements: 
                python 3.8.5
                matplotlib 3.3.3
                nltk 3.5
